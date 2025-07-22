@@ -1,12 +1,12 @@
 # 🚀 Mohamed Alshafie - Embedded Systems & IoT Engineer Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://mohamedalshafie.github.io/portfolio)
-[![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-blue)](https://mohamedalshafie.github.io/portfolio)
-[![Specialization](https://img.shields.io/badge/Specialization-Industrial%20IoT-orange)](https://mohamedalshafie.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://mshafieee.github.io/portfolio)
+[![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-blue)](https://mshafieee.github.io/portfolio)
+[![Specialization](https://img.shields.io/badge/Specialization-Industrial%20IoT-orange)](https://mshafieee.github.io/portfolio)
 
 > **Senior Embedded Systems Engineer** with 9+ years of experience in Industrial IoT, ultra-low power optimization, and safety-critical systems. Featuring real-world projects with proven results.
 
-## 🌐 [**View Live Portfolio →**](https://mohamedalshafie.github.io/portfolio)
+## 🌐 [**View Live Portfolio →**](https://mshafieee.github.io/portfolio)
 
 ---
 
@@ -52,23 +52,17 @@
 
 ## 💼 **Featured Projects**
 
-### 🏭 **Mining Vehicle Safety Control System** `2023`
-**Distributed CAN bus system protecting mining workers from dust exposure**
-- Real-time environmental monitoring and automated fan control
-- Over-CAN firmware updates with mobile app integration
-- Safety-critical system ensuring regulatory compliance
-
 ### ⚡ **Multi-Protocol Ultra-Low Power Device** `2024`
 **Adaptive connectivity with WiFi → NBIoT → LoRaWAN fallback**
 - Intelligent protocol switching for 100% coverage
 - eInk display for minimum power consumption
 - Protobuf data handling and server integration
 
-### 🔋 **4+ Year Battery Life LoRaWAN Sensor** `2021`
-**Industry-leading power optimization breakthrough**
-- <2µA sleep current with Silabs EFR32 optimization
-- Adaptive network joining with intelligent backoff
-- Hardware power leak resolution through detailed analysis
+### 🏭 **Mining Vehicle Safety Control System** `2023`
+**Distributed CAN bus system protecting mining workers from dust exposure**
+- Real-time environmental monitoring and automated fan control
+- Over-CAN firmware updates with mobile app integration
+- Safety-critical system ensuring regulatory compliance
 
 ### 🤖 **Automated Inventory Vision System** `2022`
 **Computer vision + IoT integration for industrial automation**
@@ -76,13 +70,19 @@
 - AWS S3 cloud integration for AI team collaboration
 - Complete end-to-end automation solution
 
+### 🔋 **4+ Year Battery Life LoRaWAN Sensor** `2021`
+**Industry-leading power optimization breakthrough**
+- <2µA sleep current with Silabs EFR32 optimization
+- Adaptive network joining with intelligent backoff
+- Hardware power leak resolution through detailed analysis
+
 ---
 
 ## 🛠️ **Technology Stack**
 
 ### **Microcontrollers & Platforms**
 ```
-Silabs EFR32  │  ESP32 Series  │  STM32 Family  │  PIC & ATmega  │  RevPi Industrial
+Silabs EFR32  │  Niordic nRF52 Series  |  ESP32 Series  │  STM32 Family  │  PIC & ATmega  │  RevPi Industrial
 ```
 
 ### **Development Tools & Languages**
@@ -108,7 +108,7 @@ Otii-Arc Profiler  │  Oscilloscopes  │  Logic Analyzers  │  Power Meters  
 |------------|-----------|------------------|
 | **🇪🇬 Egypt** | Foundation & Innovation | Advanced queuing systems, home automation |
 | **🇲🇾 Malaysia** | Market Expansion | Job opportunities exploration, C++ development |
-| **🇸🇦 Saudi Arabia** | Industrial Applications | Home automation market analysis, technical roles |
+| **🇸🇦 Saudi Arabia** | Industrial Applications | Home automation | BMS IoT Platfrom |
 
 ---
 
@@ -161,7 +161,7 @@ portfolio/
 
 ### **🔗 Professional Links**
 - **💼 Upwork Profile**: [View Profile](https://www.upwork.com/freelancers/muhammadshafiee)
-- **📧 Email**: mohamed.alshafie@engineer.com
+- **📧 Email**: mohamed.shafiee.osama@outlook.com
 - **🌍 Location**: Available worldwide (Remote specialist)
 
 ### **💡 Available For**
@@ -178,10 +178,10 @@ portfolio/
 ### View the Portfolio
 ```bash
 # Visit the live portfolio
-https://mohamedalshafie.github.io/portfolio
+https://mshafieee.github.io/portfolio
 
 # Or clone and run locally
-git clone https://github.com/mohamedalshafie/portfolio.git
+git clone https://github.com/mshafieee/portfolio.git
 cd portfolio
 # Open index.html in your browser
 ```
@@ -203,8 +203,8 @@ cd portfolio
 
 **🚀 Ready to solve your next embedded systems challenge?**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-brightgreen?style=for-the-badge)](https://mohamedalshafie.github.io/portfolio)
-[![Contact](https://img.shields.io/badge/Get%20In%20Touch-blue?style=for-the-badge)](mailto:mohamed.alshafie@engineer.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-brightgreen?style=for-the-badge)](https://mshafieee.github.io/portfolio)
+[![Contact](https://img.shields.io/badge/Get%20In%20Touch-blue?style=for-the-badge)](mailto:m.shafiee.osama@outlook.com)
 
 *Transforming complex technical challenges into elegant, production-ready solutions*
 
